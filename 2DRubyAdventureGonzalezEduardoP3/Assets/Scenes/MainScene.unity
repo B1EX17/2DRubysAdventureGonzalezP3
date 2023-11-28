@@ -19117,12 +19117,20 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 3361729019825156659, guid: 3a52e03bf60d29d46874a20608940e11, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1065
+      objectReference: {fileID: 0}
+    - target: {fileID: 3361729019825156659, guid: 3a52e03bf60d29d46874a20608940e11, type: 3}
+      propertyPath: m_LocalScale.y
+      value: -0.0211
+      objectReference: {fileID: 0}
+    - target: {fileID: 3361729019825156659, guid: 3a52e03bf60d29d46874a20608940e11, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.26
+      value: -19.238
       objectReference: {fileID: 0}
     - target: {fileID: 3361729019825156659, guid: 3a52e03bf60d29d46874a20608940e11, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.01
+      value: -16.9649
       objectReference: {fileID: 0}
     - target: {fileID: 3361729019825156659, guid: 3a52e03bf60d29d46874a20608940e11, type: 3}
       propertyPath: m_LocalPosition.z
@@ -19213,6 +19221,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2148750550607099104, guid: 001917eca30e499469c9dbb5425cbfe4, type: 3}
+      propertyPath: projectilePrefab
+      value: 
+      objectReference: {fileID: 5412781345670417748, guid: 3a52e03bf60d29d46874a20608940e11, type: 3}
     - target: {fileID: 3008497826398175021, guid: 001917eca30e499469c9dbb5425cbfe4, type: 3}
       propertyPath: m_Name
       value: Ruby
